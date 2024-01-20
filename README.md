@@ -1,6 +1,6 @@
 # BookVault - Muhamad Arif Ajmal bin Afsanisham S61658
 
-A new Flutter project.
+Smart Parking App - Framework-Based Mobile Development
 
 ## Getting Started
 
